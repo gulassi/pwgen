@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PwgenActivity!</string>
+    <string name="app_name">Pwgen</string>
+    <string name="type">Password type:</string>
+    <string name="length">Password length:</string>
+    <string name="password">Generated password:</string>
+    <string name="action">Generate</string>
+    <string name="default_length">13</string>
+
+</resources>
