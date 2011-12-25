@@ -1,0 +1,11 @@
+
+    <resources>
+        <string-array name="types">
+            <item >a-z</item>
+            <item >0-9</item>
+            <item >a-z,A-Z</item>
+            <item >a-z,0-9</item>
+            <item >A-Z,0-9</item>
+            <item >a-z,A-Z,0-9</item>
+        </string-array>
+    </resources>
