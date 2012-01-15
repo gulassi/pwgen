@@ -8,5 +8,6 @@
     <string name="password">Generated password:</string>
     <string name="action">Generate</string>
     <string name="default_length">13</string>
+    <string name="ambiquous">Use ambiquous characters</string>
 
 </resources>
