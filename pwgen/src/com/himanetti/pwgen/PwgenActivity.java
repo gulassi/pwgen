@@ -122,7 +122,7 @@ public class PwgenActivity extends Activity {
     			pwCharacters = arrayMerge(lowercase, uppercase, numbers);
     			break;
     	}
-		if (mAmbiquous.isChecked()) {
+		if (!mAmbiquous.isChecked()) {
 			pwCharacters = removeAmbiquous(pwCharacters, ambiquous);
 		}
 		
